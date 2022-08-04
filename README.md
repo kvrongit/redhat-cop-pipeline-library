@@ -3,7 +3,7 @@
 
 # OpenShift Pipeline Library
 
-## What This Repo Is
+## What This Repo Is:
 
 This is a shared library of Jenkins Pipeline functionality we've developed and use frequently within the CoP. This repo can be imported into a jenkins server (following [this doc](https://jenkins.io/doc/book/pipeline/shared-libraries/#using-libraries)) and used to add functionality to Pipeline scripts.
 
